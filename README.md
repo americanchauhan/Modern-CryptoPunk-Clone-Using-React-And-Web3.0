@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# Modern Cryptopunk Clone using React.js and Web3.0
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This is a guided project with the help of Clever Programmer
+#### PREREQUISITES:
+- Sign up for a thirdweb account <a href='https://thirdweb.com/'>HERE</a>
+- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
 
-## Available Scripts
+```
+npm i axios
+```
 
-In the project directory, you can run:
+#### To use this project, clone the repository and open with VS Code Editor
+Open the terminal and type follow command:
 
 ### `npm start`
 
@@ -27,44 +33,12 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<div style="display: flex;">
+<img style="height: 150px;" src='https://user-images.githubusercontent.com/42908640/179405341-5b222b11-3ea1-4f53-a175-42a2a485e9ab.jpg' alt='' />
+<img style="height: 150px;" src='https://user-images.githubusercontent.com/42908640/179405392-990e8fa9-c899-441e-99d1-8d85ed255807.jpg' alt='' />
+<img style="height: 150px;" src='https://user-images.githubusercontent.com/https://user-images.githubusercontent.com/42908640/179405487-45be5152-0ce7-4cfb-b468-5dd43bea8462.jpg' alt='' />
+</div>
+</br>
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Link to sign up for a thirdweb account <a href='https://thirdweb.com/'>HERE</a>
+![image](https://user-images.githubusercontent.com/42908640/179405524-e8dd382e-9b17-4108-b243-98c75d72f918.png)
